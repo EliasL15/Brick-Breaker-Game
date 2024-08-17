@@ -1,0 +1,12 @@
+Elias 3220
+Alex 1660
+John 2700
+Smith 2640
+Odysseas 2400
+Elias 2500
+Alex 2150
+John 1900
+Smith 2200
+Odysseas 1850
+Smith 1550
+Odysseas 1950
