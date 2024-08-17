@@ -14,6 +14,9 @@ Welcome to the Brick Breaker Game! This classic arcade-style game challenges pla
   - [Save and Load](#save-and-load)
   - [Leaderboard](#leaderboard)
   - [Changing Keybindings](#changing-keybindings)
+- [Installation](#installation)
+- [How to Play](#how-to-play)
+- [Credits](#credits)
 
 ## Game Overview
 
