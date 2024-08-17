@@ -2,6 +2,8 @@
 
 Welcome to the Brick Breaker Game! This classic arcade-style game challenges players to break all the bricks using a ball and a paddle. This `README.md` file provides an overview of the game, its functionalities, core mechanics, and instructions on how to play, including customizing keybindings and using additional features like saving/loading game states and viewing the leaderboard.
 
+![Demo GIF](/brick_breaker_game/Demo.gif)
+
 ## Table of Contents
 
 - [Game Overview](#game-overview)
